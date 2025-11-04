@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIRLS 7 - طرح راقية وأنيقة</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- رأس الصفحة -->
+  <header>
+    <div class="logo">GIRLS <span>7</span></div>
+    <nav>
+      <ul>
+        <li><a href="#">الرئيسية</a></li>
+        <li><a href="#products">المنتجات</a></li>
+        <li><a href="#about">من نحن</a></li>
+        <li><a href="#contact">تواصلي معنا</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- البانر -->
+  <section class="hero">
+    <div class="hero-text">
+      <h1>أناقة كل يوم مع GIRLS 7</h1>
+      <p>اكتشفي أحدث صيحات الطرح العصرية التي تناسب كل الإطلالات.</p>
+      <a href="#products" class="btn">تسوقي الآن</a>
+    </div>
+  </section>
+
+  <!-- المنتجات -->
+  <section id="products" class="products">
+    <h2>منتجاتنا</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/hijab1.jpg" alt="طرحة 1">
+        <h3>طرحة حرير فاخرة</h3>
+        <p>150 جنيه</p>
+        <a href="https://wa.me/201000000000" class="btn">اطلبي الآن</a>
+      </div>
+      <div class="product-card">
+        <img src="images/hijab2.jpg" alt="طرحة 2">
+        <h3>طرحة كتان صيفي</h3>
+        <p>120 جنيه</p>
+        <a href="https://wa.me/201000000000" class="btn">اطلبي الآن</a>
+      </div>
+      <div class="product-card">
+        <img src="images/hijab3.jpg" alt="طرحة 3">
+        <h3>طرحة قطنية ناعمة</h3>
+        <p>100 جنيه</p>
+        <a href="https://wa.me/201000000000" class="btn">اطلبي الآن</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- من نحن -->
+  <section id="about" class="about">
+    <h2>من نحن</h2>
+    <p>
+      GIRLS 7 هو براند مصري متخصص في الطرح الراقية التي تجمع بين الأناقة والبساطة.
+      نؤمن أن كل فتاة تستحق أن تبرز جمالها واحتشامها بأناقة.
+    </p>
+  </section>
+
+  <!-- تواصلي معنا -->
+  <section id="contact" class="contact">
+    <h2>تواصلي معنا</h2>
+    <p>راسلينا عبر واتساب أو على صفحاتنا على السوشيال ميديا</p>
+    <div class="social">
+      <a href="https://wa.me/201000000000">واتساب</a>
+      <a href="#">إنستجرام</a>
+      <a href="#">فيسبوك</a>
+    </div>
+  </section>
+
+  <!-- الفوتر -->
+  <footer>
+    <p>© 2025 GIRLS 7 - جميع الحقوق محفوظة</p>
+  </footer>
+</body>
+</html>
